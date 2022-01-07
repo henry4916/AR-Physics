@@ -35,3 +35,5 @@ https://stackoverflow.com/questions/44107248/unity-5-5-2f1-to-5-6-1f1-interpolat
 ### 3. 其他遊戲設定：
 	a. 當碰觸到物體會增加畫面上的數字，代表的意義為碰觸的物體使車輛受損，當碰觸量達到5次會顯示loss，表示遊戲輸了，要使用restart.png來重新開始遊戲
 	b. 要完成遊戲則必須將車輛開到火光的特效那裡，且完成遊戲畫面會顯示 win
+
+![](https://github.com/henry3063/AR-Physics/blob/main/demo.mp4)
