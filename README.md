@@ -21,7 +21,13 @@ https://stackoverflow.com/questions/44107248/unity-5-5-2f1-to-5-6-1f1-interpolat
 	d. up.png    -> 使汽車向前移動
 	e. right.png -> 使汽車向右移動
 	f. restart.png -> 使遊戲重新開始
-   且可以同時三張同時使用，例如 AR.png + up.png + down.png 汽車可以在遊戲畫面往右前一堆
+   	且可以同時三張同時使用，例如 AR.png + up.png + down.png 汽車可以在遊戲畫面往右前一堆
+<img src="https://user-images.githubusercontent.com/72666141/148639289-70d0371f-0a26-46f4-8a59-bdf53bbfecdc.png" alt="Cover" width="10%"/> <img src="https://user-images.githubusercontent.com/72666141/148639291-a2b60907-4e31-4677-9050-f5a8198db979.png" alt="Cover" width="10%"/>
+<img src="https://user-images.githubusercontent.com/72666141/148639292-f4e748a0-2146-46f6-a531-2ae47d05cd01.png" alt="Cover" width="10%"/>
+<img src="https://user-images.githubusercontent.com/72666141/148639293-0870c078-ca7b-4ad9-af6a-60df1c249f87.png" alt="Cover" width="10%"/>
+<img src="https://user-images.githubusercontent.com/72666141/148639294-cf9b6f64-b2a6-403d-ac73-76301acb88ed.png" alt="Cover" width="10%"/>
+<img src="https://user-images.githubusercontent.com/72666141/148639288-d50da4f2-fe6e-4907-90fa-a6fc687de816.png" alt="Cover" width="10%"/>
+   
 
 ### 2. 添加AR特效包含：
 	a. 放置大石頭為障礙物品，使汽車無法通過，如果碰觸到就增加畫面上碰觸物體的數量，且有陽光造成的陰影
@@ -35,5 +41,8 @@ https://stackoverflow.com/questions/44107248/unity-5-5-2f1-to-5-6-1f1-interpolat
 ### 3. 其他遊戲設定：
 	a. 當碰觸到物體會增加畫面上的數字，代表的意義為碰觸的物體使車輛受損，當碰觸量達到5次會顯示loss，表示遊戲輸了，要使用restart.png來重新開始遊戲
 	b. 要完成遊戲則必須將車輛開到火光的特效那裡，且完成遊戲畫面會顯示 win
+https://user-images.githubusercontent.com/72666141/148639240-de281205-6a4d-4cbf-93d9-757d1340b3e1.mp4
 
-![](https://github.com/henry3063/AR-Physics/blob/main/demo.mp4)
+
+
+
